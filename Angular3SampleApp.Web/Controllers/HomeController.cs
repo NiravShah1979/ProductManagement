@@ -15,7 +15,7 @@ namespace Angular3SampleApp.Web.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application description page1.";
 
             return View();
         }
